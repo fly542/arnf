@@ -1,0 +1,9 @@
+[package]
+name = "arnf"
+version = "0.0.1"
+authors = ["wanghaibin"]
+edition = "2018"
+description = "A rust net framework."
+license = "MIT OR Apache-2.0"
+
+[dependencies]
